@@ -1,0 +1,5 @@
+hosts              C:\Windows\System32\drivers\etc\hosts
+host apache        C:\Users\tykra\Desktop\cmr_server\Apache24\conf\extra\httpd-vhosts.conf
+php ini            C:\Users\tykra\Desktop\cmr_server\PHP\php.ini
+config phpmyadmin  C:\Users\tykra\Desktop\cmr_server\Apache24\htdocs\phpmyadmin\config.inc.php
+config Apache      C:\Users\tykra\Desktop\cmr_server\Apache24\conf\httpd.conf
